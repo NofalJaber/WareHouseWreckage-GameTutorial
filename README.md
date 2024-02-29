@@ -6,7 +6,9 @@
 Functionalities:
 
 -Pressing "Space" launches metal projectiles that can interact with the environment
+
 -Pressing "R" reloads the number of projectiles back to 20
+
 -If the players gets to 0 projectile, the level resets
 
 
