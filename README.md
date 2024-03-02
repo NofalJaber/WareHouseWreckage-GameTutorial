@@ -14,5 +14,4 @@ Functionalities:
 
 https://github.com/NofalJaber/WareHouseWreckage-GameTutorial/assets/158154010/d6e63c67-b92c-4285-96a2-0d36baf7ae01
 
-![WareHouseWreckage GIF](https://github.com/NofalJaber/WareHouseWreckage-GameTutorial/assets/158154010/bb3e3ab3-5c98-47c5-a4f2-27a21f0f3c0b)
 
